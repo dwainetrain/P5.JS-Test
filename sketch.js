@@ -1,3 +1,5 @@
+//start working in p5
+
 function setup() {
   createCanvas(700,400)
   // put setup code here
